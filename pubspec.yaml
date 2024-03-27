@@ -1,0 +1,20 @@
+name: rick_rrrr
+description: "Rick Roll your Flutter app users with one vibrating click of a button!"
+version: 1.0.0
+homepage: https://github.com/DutchCodingCompany/rick_rrrr
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  gaimon: ^1.2.2+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
