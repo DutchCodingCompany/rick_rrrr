@@ -1,6 +1,6 @@
 library rick_rrrr;
 
-import 'package:gaimon/gaimon.dart';
+import 'package:rick_rrrr/gaimon.dart';
 
 /// The one and only...
 class Rick {

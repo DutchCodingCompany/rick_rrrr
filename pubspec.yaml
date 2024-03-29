@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  gaimon: ^1.2.2+2
+# add gaimon once the new version is released
 
 dev_dependencies:
   flutter_test:
@@ -18,3 +18,10 @@ dev_dependencies:
   flutter_lints: ^3.0.0
 
 flutter:
+  plugin:
+    platforms:
+      ios:
+        pluginClass: GaimonPlugin
+      android:
+        package: com.dimitridessus.gaimon
+        pluginClass: GaimonPlugin
