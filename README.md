@@ -1,4 +1,4 @@
-![Rick Astley vibrantly dancing](https://i.ibb.co/n15zsZr/download-1-1.png)
+![Rick Astley vibrantly dancing](rick.png)
 # Rick RRRR
 Did you ever want to silently Rick Roll your app users? Want to use the best of haptic motors in smartphones for a cool easter egg in your app? Then Rick RRRR is for you! It is easy as one - two - three!
 
