@@ -11,7 +11,7 @@ First, you will need to add  `rick_rrrr`  to your  `pubspec.yaml`.
 dependencies:
   flutter:
     sdk: flutter
-  rick_rrrr: 1.0.0
+  rick_rrrr: 1.0.1
 ```
 
 Then, run  `flutter pub get`  in your terminal.
